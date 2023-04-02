@@ -3,7 +3,7 @@
 ## Общая информация
 
 Проект является составной частью [этого проекта](https://github.com/sezergemtsov/Cloud_file_storrage)  
-сдополнительными пояснениями реализации.
+с дополнительными пояснениями реализации.
 
 Проект создан на основе Spring framework как REST api и соединен с готовой частью Front на оновании [этих требований](https://github.com/netology-code/jd-homeworks/blob/master/diploma/CloudServiceSpecification.yaml)
 
