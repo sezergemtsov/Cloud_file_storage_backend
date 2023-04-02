@@ -15,7 +15,7 @@
 По умолчанию в [application.properties](https://github.com/sezergemtsov/Cloud_file_storage_backend/blob/master/src/main/resources/application.properties#L3-L5)  установлено подключение к бд из Docker контейнера,  
 поэтому для тестового запуска отдельно от основного проекта требуется переконфигурировать подключение к бд.
 
-**Внимание** максимальный размер передаваемых файлов ограничен 12MB, значение можно изменить в [application.properties](https://github.com/sezergemtsov/Cloud_file_storage_backend/blob/master/src/main/resources/application.properties#L13-L14)
+**Внимание:** максимальный размер передаваемых файлов ограничен 12MB, значение можно изменить в [application.properties](https://github.com/sezergemtsov/Cloud_file_storage_backend/blob/master/src/main/resources/application.properties#L13-L14)
 
 ## Авторизация
 
